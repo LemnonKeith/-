@@ -29,7 +29,7 @@
 // @match        http://www.xiaobi025.com/*
 // @match        http://www.xiaobi026.com/*
 // @match        http://www.xiaobi027.com/*
-// @match        https://www.xiaobi079.com/*
+// @match        http://www.xiaobi028.com/*
 // @require      https://code.jquery.com/jquery-latest.js
 // @run-at       document-start
 // @grant        unsafeWindow
